@@ -1,0 +1,2 @@
+GRANT SELECT ON shifts TO nurse;
+GRANT UPDATE, DELETE, INSERT ON shifts TO jackie;
