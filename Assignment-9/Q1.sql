@@ -1,0 +1,2 @@
+SELECT B, D, A
+FROM R;
