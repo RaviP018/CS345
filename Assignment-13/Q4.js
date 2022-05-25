@@ -1,0 +1,1 @@
+db.callsForService.count({"Original Crime Type Name": "Homeless Complaint", "City": "San Francisco"});

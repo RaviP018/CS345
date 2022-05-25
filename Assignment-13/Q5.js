@@ -1,0 +1,1 @@
+db.callsForService.distinct("Address Type", {"Original Crime Type Name": "Trespasser"}).length;

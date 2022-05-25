@@ -1,0 +1,1 @@
+db.callsForService.distinct('City', {$and: [{City:{$ne:''}}, {City:{$ne: 'San Francisco'}}]}).length;
