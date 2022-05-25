@@ -1,0 +1,3 @@
+SELECT COUNT(Year)
+FROM Movie
+WHERE Movie.Year = '1890'
