@@ -1,0 +1,1 @@
+SELECT 'atomicity', 'consistency', 'isolation', 'durability';
